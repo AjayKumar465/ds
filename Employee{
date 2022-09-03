@@ -1,0 +1,34 @@
+Employee{
+    id,
+    sal,
+    name,
+}
+Collections.sor(emList, (emp1,emp2)->emp1.gtSal.compare(emp2.getSal()))
+find the second high sal using streams
+
+scale up micro services
+diff between angular and react
+diff web services and react servieces
+
+
+@re
+@interface nae{
+
+}
+
+A{
+    hello()
+}
+B ext A
+{
+    hello();
+
+    bye();
+    main(){
+        B b = (B)new A();
+        A a = new B();
+       ((B) a).bye();
+        a.hello();
+        b.hello();
+    }
+}
